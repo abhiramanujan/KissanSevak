@@ -1,6 +1,6 @@
 # KissanSevak
 
-This app is used by the farmers and the wholesalers(retailers).
+This app is a prototype which can be used by the farmers and the wholesalers(retailers).
 
 It will help farmers to sell his crops directly to the retailers, by setting a base price for his crop, and many retailers bid for certain products they want from the farmers. 
 This app uses a bidding system, for selling of crops from farmer side to the retailer side. This helps farmer to gain some profit, otherwise they used to get manipulated by the middlemen.
