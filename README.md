@@ -18,5 +18,5 @@ After they select one or more from this, they will get information of the farmer
 They can select one or more items from that list and bid for that.
 Once a retailer starts bidding, then all other retailers who uses this app will get a notification about the current bid for an item they have also bidded for or going to bid for.
 
-
-This app will be updated accordingly..
+Note :-
+  This idea was for a hackathon 4.0 in rajasthan, so this is just a prototype and further updates might not happen depending upon the demand.
